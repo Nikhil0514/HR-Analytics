@@ -21,6 +21,10 @@ The HR department gathered the data over three months.
 4. It is usually a good practice to group the measures in one place.
 5. Understanding the calculate function in DAX is very important.
 6. We can also add additional columns to our data using Dax.
+
+During the data transformation referred to the following blog post :
+https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-worksheets/?subscribe=success#subscribe-blog-blog_subscription-3
+
 ## Insights
 1. The WFH% graph clearly shows a tendency towards increased WFH preference on Thursdays and Fridays (around 15%).
 2. The highest attendance rates are on Mondays, Tuesdays, and Wednesdays (about 85%).
